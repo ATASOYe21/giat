@@ -1,0 +1,2 @@
+# giat
+Kendine has içerikler 
